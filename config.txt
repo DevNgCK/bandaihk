@@ -1,0 +1,4 @@
+baccName=
+accPassword=
+itemCode=
+itemCount=
